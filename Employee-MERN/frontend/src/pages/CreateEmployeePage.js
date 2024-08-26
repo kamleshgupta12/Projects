@@ -9,11 +9,11 @@ const CreateEmployeePage = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2">
         <div className="relative flex items-end px-4 pb-10 pt-60 sm:px-6 sm:pb-16 md:justify-center lg:px-8 lg:pb-24">
           <div className="absolute inset-0 flex justify-center items-center">
-            <img
+            {/* <img
               className="h-[60%] w-full object-cover object-top"
               src="https://images.pexels.com/photos/927022/pexels-photo-927022.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
               alt=""
-            />
+            /> */}
           </div>
           <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent"></div>
 
